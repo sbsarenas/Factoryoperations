@@ -1,0 +1,3 @@
+C:\Users\liseb\source\repos\Factorytaller\obj\Debug\Factorytaller.njsprojAssemblyReference.cache
+C:\Users\liseb\source\repos\Factorytaller\obj\Debug\Factorytaller.njsproj.CoreCompileInputs.cache
+C:\Users\liseb\source\repos\Factorytaller\bin\Microsoft.NodejsTools.WebRole.dll
